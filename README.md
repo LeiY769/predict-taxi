@@ -8,7 +8,7 @@
 
 ## Overview
 
-This project addresses predicting taxi trip destinations using various machine learning models. The challenge involves data cleaning, feature engineering, and model evaluation based on the haversine distance metric.
+This project addresses predicting taxi trip destinations using various machine learning models. The challenge involves data cleaning, feature engineering, and model evaluation based on the haversine distance metric. The final grade for this project was 16/20
 
 ---
 
