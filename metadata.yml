@@ -1,0 +1,13 @@
+---
+:id: 220998522
+:submitters:
+- :name: YANG Lei
+  :email: lei.yang@student.uliege.be
+- :name: DONATI Alexia
+  :email: alexia.donati@student.uliege.be
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-12-18 22:50:19.632241000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-12-18 14:50:19.632241000 Z
+:status: processed
